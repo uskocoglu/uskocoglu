@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uskocoglu
-- 👀 I’m interested in Mobile Application Development
+- 👀 I’m interested in mobile and web application development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me utkukocoglu@gmail.com
