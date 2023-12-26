@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uskocoglu
+- 👋 Hi, I’m @uskocoglu, I am a C++ Developer
 - 📫 How to reach me utkukocoglu@gmail.com
 
 <!---
